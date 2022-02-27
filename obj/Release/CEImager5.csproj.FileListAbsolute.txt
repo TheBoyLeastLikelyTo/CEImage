@@ -1,0 +1,6 @@
+C:\Users\Simon\Downloads\Program\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\Program\obj\Release\Imaging5.Main.resources
+C:\Users\Simon\Downloads\Program\obj\Release\Imaging5.Properties.Resources.resources
+C:\Users\Simon\Downloads\Program\obj\Release\Imaging5.SelectPen.resources
+C:\Users\Simon\Downloads\Program\obj\Release\Imaging5.TextDialog.resources
+C:\Users\Simon\Downloads\Program\obj\Release\CEImager5.csproj.GenerateResource.Cache

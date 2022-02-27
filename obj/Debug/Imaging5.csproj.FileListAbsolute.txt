@@ -1,0 +1,10 @@
+C:\Users\Simon\Downloads\Program\bin\Debug\Imaging5.exe
+C:\Users\Simon\Downloads\Program\bin\Debug\Imaging5.pdb
+C:\Users\Simon\Downloads\Program\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.Form1.resources
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.Properties.Resources.resources
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.SelectPen.resources
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.TextDialog.resources
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.csproj.GenerateResource.Cache
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.exe
+C:\Users\Simon\Downloads\Program\obj\Debug\Imaging5.pdb

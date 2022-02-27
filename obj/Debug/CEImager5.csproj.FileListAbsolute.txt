@@ -1,0 +1,10 @@
+C:\Users\Simon\Downloads\CEImager5\bin\Debug\CEImager5.exe
+C:\Users\Simon\Downloads\CEImager5\bin\Debug\CEImager5.pdb
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\Imaging5.Main.resources
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\Imaging5.Properties.Resources.resources
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\Imaging5.SelectPen.resources
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\Imaging5.TextDialog.resources
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\CEImager5.csproj.GenerateResource.Cache
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\CEImager5.exe
+C:\Users\Simon\Downloads\CEImager5\obj\Debug\CEImager5.pdb

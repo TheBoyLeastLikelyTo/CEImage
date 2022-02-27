@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Imaging5">
+</Property><Property Name="Solution File" Value="C:\Users\Simon\Downloads\Program\Imaging5.sln">
+</Property><Property Name="Date" Value="04 December, 2021">
+</Property><Property Name="Time" Value="15:01">
+</Property></Properties><Event ErrorLevel="0" Project="Imaging5" Source="Imaging5.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Imaging5" Source="Imaging5.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Imaging5.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Imaging5.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Imaging5" Source="Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Imaging5" Source="Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Imaging5" Source="Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Imaging5" Source="Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Imaging5" Source="SelectPen.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Imaging5" Source="SelectPen.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Imaging5" Source="TextDialog.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Imaging5" Source="TextDialog.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Imaging5" Source="Imaging5.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
